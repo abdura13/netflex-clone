@@ -1,10 +1,16 @@
 import "./App.css";
+import Footer from "./compontes/Footer/Footer";
+import Header from "./compontes/Header/Header";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>hello</h1>
-    </div>
+    <>
+     
+
+      <Header />
+      <Footer />
+    </>
   );
 }
 
