@@ -1,5 +1,5 @@
 {
-  "homepage":"http://abdura13.github.io/netflex-clone",
+  "homepage": "http://abdura13.github.io/netflex-clone",
   "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
@@ -43,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "github-pages": "^3.0.2"
   }
 }
